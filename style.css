@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("https://wallpapercave.com/wp/9PbNi1c.jpg");
+    background-size: cover; 
+    height: 100vh;
+}
+
+.container{
+    height: 100vh;
+}
+
+.button_names{
+    display: flex;
+    margin-top: 10vh;
+    flex-direction: column;
+    padding:40px;
+    background-color: #CCCCCC;
+}
+
+.button_names button{
+    margin:3px;
+    padding:10px;
+}
+
+h1{
+    margin-top: 5vh;
+    color: white;
+    padding:10px;
+    border-bottom: solid 1px grey;
+}
