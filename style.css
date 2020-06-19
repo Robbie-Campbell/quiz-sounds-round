@@ -13,6 +13,11 @@ body{
     height: 100vh;
 }
 
+.title{
+    font-weight: 700;
+    margin-top: 5vh;
+}
+
 .button_names{
     display: flex;
     margin-top: 10vh;
